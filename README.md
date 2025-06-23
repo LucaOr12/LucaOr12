@@ -1,4 +1,4 @@
-# Hi, I'm Luca 👋
+# 👋 Hi, I'm Luca
 
 I'm a passionate **Software Developer** from Italy 🇮🇹 with a strong interest in building clean, scalable, and maintainable applications. I enjoy solving real-world problems with code and continuously improving my skills through hands-on projects.
 
