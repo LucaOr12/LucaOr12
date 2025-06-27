@@ -5,7 +5,7 @@ I'm a passionate Software Developer from Italy 🇮🇹 with a strong interest i
 🛠️ What I’m Working On<br>
 A full-stack social network for cats called CatBook, featuring:<br>
 -ASP.NET Core API for backend logic and JWT-based authentication<br>
--PostgreSQL database hosted on Render<br>
+-PostgreSQL database hosted on Supabase<br>
 -React frontend with SCSS theming and Google OAuth login<br>
 -Instagram-style “For You” feed and responsive UI<br>
 -Separate user profiles, posts, likes, and comments system in progress<br>
